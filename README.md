@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Hà Huy Hùng</h1>
 <h3 align="center">📘 Currently studying on TDTU</h3>
-<h3 align="center">💻 Working on ... Technology</h3>
+<h3 align="center">💻 Working on ... Technology & Photographer </h3>
 <h3 align="center">✍️ Making some projects using JavaScript, PHP,...</h3>
 <h3 align="center">:open_file_folder: Node.js, React.js, TensorFlow and Laravel </h3>
 
