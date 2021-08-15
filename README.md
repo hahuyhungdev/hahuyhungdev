@@ -14,5 +14,5 @@
 	<img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100" />
 </p>
 <p align="center" style="margin-bottom: 20px">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=whoant&repo=ZingMp3API"></img>
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=whoant&repo=x_shop_travel"></img>
 </p>
