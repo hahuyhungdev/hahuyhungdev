@@ -13,15 +13,13 @@
 	<img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100" />
 	<img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100" />
 </p>
-<p align="center" style="margin-bottom: 20px">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=Zeroryo&repo=lux_shop_travel"></img>
-</p>
+<a href="https://github.com/ZeroRyo/lux_shop_travel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZeroRyo&repo=lux_shop_travel" />
+</a>
+<a href="https://github.com/ZeroRyo/hoctap">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZeroRyo&repo=hoctap" />
+</a>
+</br>
 <p align="center" style="margin-bottom: 20px">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeroryo&layout=compact"></img>
 </p>
-<a href="https://github.com/ZeroRyo/lux_shop_travel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/ZeroRyo/hoctap">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
