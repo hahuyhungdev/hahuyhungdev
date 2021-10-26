@@ -29,11 +29,11 @@
 	<img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100" />
 </p>
 <center>
-<a href="https://github.com/ZeroRyo/lux_shop_travel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZeroRyo&repo=lux_shop_travel" />
+<a href="https://github.com/ZeroRyo/webhoa/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZeroRyo&repo=webhoa" />
 </a>
-<a href="https://github.com/ZeroRyo/hoctap">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZeroRyo&repo=hoctap" />
+<a href="https://github.com/ZeroRyo/FruitSalad">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZeroRyo&repo=FruitSaladp" />
 </a>
 </br>
 <p align="center" style="margin-bottom: 20px">
