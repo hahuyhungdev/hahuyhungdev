@@ -52,12 +52,12 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
-<div align=center>
+<div align="left">
   <a href="#" title="Hungdev">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroRyo&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="#" title="Hungdev">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=ZeroRyov&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <img align="center" src="https://user-images.githubusercontent.com/67463412/129671456-61ef0d33-44b3-472d-916b-8dbad6b628a0.gif" width="235" height="150" style="/* max-width: 50%; *//* border-left: aquamarine; */margin-left: 4px;">
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=Zeroryo&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 
@@ -89,12 +89,11 @@
 
 <br>
 
-<h2 align="center">📑 Random Quotes 📑</h2>
+<!-- <h2 align="center">📑 Random Quotes 📑</h2>
 <br>
 <!-- https://github.com/shravan20/github-readme-quotes -->
-<div align="right">
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default&font=default)
-
+<!-- <div align="right"> -->
+<!-- 
+[Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default&font=default) -->
 </div>
 
