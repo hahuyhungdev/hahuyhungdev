@@ -1,43 +1,100 @@
-
-
-
-<h1 align="center">Hi there 👋 welcome to my Github .</h1>
-<h1 align="center">I'm Hà Huy Hùng</h1>
-
-<h3 align="center">📘 Currently studying on TDTU</h3>
-<h3 align="center">💻 Working on ... Technology & Photographer </h3>
-<h3 align="center">✍️ Making some projects using JavaScript, PHP,...</h3>
-<h3 align="center">:open_file_folder: Node.js, React.js, TensorFlow and Laravel </h3>
-
-#### Languages and Frameworks I know and Study
-
-<code><img width="20" src="https://user-images.githubusercontent.com/67463412/129682914-b775d29f-107c-42c4-b7df-064a12edcfb6.png" /></code>
-<code><img width="20" src="https://user-images.githubusercontent.com/67463412/129682987-540e581b-999d-4ea1-bf3c-50c5216e9400.png" /></code>
-<code><img width="20" src="https://user-images.githubusercontent.com/67463412/129683263-3a59278c-7ed0-4aa0-904c-698634df26a4.png" /></code>
-<code><img width="20" src="https://user-images.githubusercontent.com/67463412/129683635-226e9808-f7bd-441c-9479-553c0d2f0ba0.png" /></code>
-<code><img width="20" src="https://user-images.githubusercontent.com/67463412/129683778-91b7d0c7-ecf5-4f38-9e1e-52678e14512f.png" /></code>
-<code><img width="20" src="https://user-images.githubusercontent.com/67463412/129683735-cf63ca20-e337-47c5-afba-cc55db9a4d22.png" /></code>
-<code><img width="20" src="https://user-images.githubusercontent.com/67463412/129683854-98cdb97b-1677-4319-b0b7-3977b2b22c36.png" /></code>
-<img align="right" src="https://user-images.githubusercontent.com/67463412/129671456-61ef0d33-44b3-472d-916b-8dbad6b628a0.gif" width="350" height="250" /> 
-
-#### My github stats
-<img width="450" src="https://github-readme-stats.vercel.app/api?username=Zeroryo&show_icons=true&theme=tokyonight" />
-
-<p align="center" style="margin-bottom: 10px">
-	<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" />
-	<img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100" />
-	<img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100" />
-</p>
-<center>
-<a href="https://github.com/ZeroRyo/timetable/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZeroRyo&repo=timetable" />
+<!-- Trungquandev -->
+<a href="#" target="_blank">
+  <img src="svg/trungquandev.svg" width="1200" alt="Click to see the source" />
 </a>
-<a href="https://github.com/ZeroRyo/Form">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZeroRyo&repo=Form" />
-</a>
-</br>
-<p align="center" style="margin-bottom: 20px">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeroryo&layout=compact"></img>
-</p>
-</center>
+
+<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+<br>
+<!-- https://simpleicons.org/ -->
+<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=nuxt.js&logoColor=4FC08D" alt="Nuxt.js logo" title="Nuxt.js" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Three.js-282C34?logo=three.js&logoColor=FFFFFF" alt="Three.js logo" title="Three.js" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
+&nbsp;
+
+<br>
+
+<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<br>
+<div align=center>
+  <a href="#" title="Trungquandev">
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungquandev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  </a>
+  <a href="#" title="Trungquandev">
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=trungquandev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  </a>
+</div>
+
+<br>
+
+<h2 align="center">👽 Where to find me 👽</h2>
+<br>
+<!-- https://icons8.com -->
+<div align="center">
+  <a href="https://trungquandev.com" target="blank">
+    <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="trungquandev-blog" />
+  </a>
+  <a href="https://facebook.com/trungquandev" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
+  </a>
+  <a href="https://www.youtube.com/c/TrungquandevOfficial" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
+  </a>
+  <a href="https://www.linkedin.com/in/trungquandev" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
+  </a>
+  <a href="https://instagram.com/trungquandev" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
+  </a>
+  <a href="mailto:trungquandev.official@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+  </a>
+</div>
+
+<br>
+
+<h2 align="center">📑 Random Quotes 📑</h2>
+<br>
+<!-- https://github.com/shravan20/github-readme-quotes -->
+<div align="right">
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default&font=default)
+
+</div>
 
