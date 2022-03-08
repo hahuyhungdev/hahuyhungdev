@@ -26,8 +26,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Three.js-282C34?logo=three.js&logoColor=FFFFFF" alt="Three.js logo" title="Three.js" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
@@ -54,10 +52,10 @@
 <br>
 <div align="left">
   <a href="#" title="Hungdev">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroRyo&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroRyo&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <img align="center" src="images/hunggif.gif" width="240" height="150" style="margin-left: 4px;">
-    <img align="right" width="430" src="https://github-readme-stats.vercel.app/api?username=Zeroryo&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+<!--   <img align="center" src="/images/hunggif.gif" width="240" height="150" style="margin-left: 100px;"> -->
+    <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=Zeroryo&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 
@@ -96,4 +94,3 @@
 <!-- 
 [Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default&font=default) -->
 </div>
-
