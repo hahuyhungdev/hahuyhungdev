@@ -68,7 +68,7 @@
   <a href="#" target="blank">
     <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="trungquandev-blog" />
   </a>
-  <a href="https://www.facebook.com/zeroryo25/" target="blank">
+  <a href="https://www.facebook.com/huyhungdev" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
   </a>
   <a href="#" target="blank">
@@ -77,10 +77,10 @@
   <a href="https://www.linkedin.com/in/huyhungtdtu" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
   </a>
-  <a href="https://instagram.com/zeroca2503" target="blank">
+  <a href="https://instagram.com/huyhungdev" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
   </a>
-  <a href="mailto:hhhungdesigner@gmail.com" target="top">
+  <a href="mailto:hahuyhungdev@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
   </a>
 </div>
