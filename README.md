@@ -19,5 +19,5 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=ansidev" alt="Profile view" />
 </div>
 
-<img src="https://github.com/huyhungdev/ansidev/blob/main/github_metrics_01.svg" />
-<img src="https://github.com/huyhungdev/ansidev/blob/main/github_metrics_02.svg" />
+<img src="https://github.com/huyhungdev/huyhungdev/blob/main/github_metrics_01.svg" />
+<img src="https://github.com/huyhungdev/huyhungdev/blob/main/github_metrics_02.svg" />
