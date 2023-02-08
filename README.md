@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 <div>
   <img src="https://komarev.com/ghpvc/?username=ansidev" alt="Profile view" />
 </div>
-<!-- 
 <img src="https://github.com/hahuyhungdev/hahuyhungdev/blob/main/github_metrics_01.svg" />
 
 <img src="https://github.com/hahuyhungdev/hahuyhungdev/blob/main/github_metrics_02.svg" />
- -->
+ 
