@@ -1,7 +1,11 @@
-# 🌟 Ha Huy Hung | Senior Frontend Engineer & AWS Certified Solutions Architect 👋
+# 🌟 Ha Huy Hung | Senior Frontend Engineer & Fullstack Engineer 👋
 
 <p align="center">
-  <strong>A Senior Frontend Engineer who builds for the entire stack. Bridging the gap between high-performance UI rendering and scalable cloud architectures.</strong>
+  <strong>React Performance Specialist | AWS Certified Solutions Architect</strong>
+</p>
+
+<p align="center">
+  <strong>Specializing in high-performance React architectures and scalable fullstack cloud solutions.</strong>
 </p>
 
 <p align="center">
@@ -13,14 +17,14 @@
 
 ---
 
-### ⚡ Frontend Core, End-to-End Execution
+### 🚀 Professional Profile
 
-I am a **Senior Frontend Engineer** who doesn't stop at the browser. While my core strength is designing high-performance, pixel-perfect, and accessible user interfaces, I bring the T-shaped expertise of an **AWS Certified Solutions Architect** to design the serverless backends, API layers, and CI/CD pipelines needed to deliver complete web products.
+I am a **Senior Frontend Engineer & Fullstack Engineer** with a deep focus on **React performance optimization** and cloud infrastructure design. I build high-speed, interactive user interfaces while architecting robust backend APIs and serverless workflows to power them.
 
-* 🎨 **Advanced Frontend Engineering:** Deep expertise in React (18/19), Next.js, Micro Frontends (MFE), state machines, and dynamic canvas visualization.
-* ☁️ **Full-Stack AWS Architecture:** Designing secure, serverless backend integrations (Lambda, API Gateway, DynamoDB, Bedrock, VPC, CloudFront) to support frontend scale.
-* 🏗️ **Monorepos & Delivery:** Orchestrating complex codebases with Nx/Turborepo, enforcing clean shared library boundaries, and setting up automated Playwright/Cypress testing.
-* 🤖 **AI & Productivity Tooling:** Creating custom CLI developer tools and prompt configurations to automate workflows and optimize LLM costs.
+* ⚡ **React Performance & Rendering:** Advanced specialization in React (18/19), Next.js, rendering loop optimization, canvas animations, custom state synchronization, and nailing Core Web Vitals.
+* 🛠️ **Fullstack Engineering:** Designing secure backend APIs, database schemas, and microservices using Node.js, NestJS, Go, and PostgreSQL.
+* ☁️ **Cloud Architecture (AWS Certified):** Designing secure, scalable, and highly available serverless infrastructures as an AWS Certified Solutions Architect (Lambda, API Gateway, DynamoDB, Bedrock, S3, CloudFront).
+* 🏗️ **Monorepos & Delivery:** Orchestrating enterprise-scale codebases using Nx and Turborepo with comprehensive automated CI/CD and E2E testing (Playwright, Cypress).
 
 ---
 
@@ -78,13 +82,13 @@ I am a **Senior Frontend Engineer** who doesn't stop at the browser. While my co
 
 ---
 
-### 📂 Featured Full-Stack & Cloud Architecture Projects
+### 📂 Featured Projects
 
-Here are a few select projects showcasing advanced UI states, interactive animations, and serverless cloud architectures:
+Here are a few select projects showcasing advanced user interfaces, interactive animations, and serverless fullstack architectures:
 
 #### 🤖 [aws-bedrock-agentic-rag](https://github.com/hahuyhungdev/aws-bedrock-agentic-rag)
-* **What it is:** A cloud-native Agentic Retrieval-Augmented Generation (RAG) setup utilizing generative AI.
-* **Cloud Architecture:** Leverages AWS Bedrock model endpoints, serverless AWS Lambda microservices, secure IAM policy layers, and vectorized search integration for responsive context retrievability.
+* **What it is:** A cloud-native Agentic Retrieval-Augmented Generation (RAG) backend utilizing generative AI.
+* **Architecture:** Leverages AWS Bedrock model endpoints, serverless AWS Lambda microservices, secure IAM policy layers, and vectorized search integration.
 * *Stack: AWS Bedrock, AWS Lambda, Vector Databases, Python, Node.js*
 
 #### 📖 [Web Interactive DSA Handbook](https://github.com/hahuyhungdev/web-interactive-dsa-handbook)
