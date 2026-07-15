@@ -1,7 +1,7 @@
-# 🌟 Ha Huy Hung | Full-Stack Architect & AWS Certified Solutions Architect 👋
+# 🌟 Ha Huy Hung | Senior Frontend Engineer & AWS Certified Solutions Architect 👋
 
 <p align="center">
-  <strong>Bridging the Gap Between High-Performance Frontend Rendering and Scalable Cloud Architectures.</strong>
+  <strong>A Senior Frontend Engineer who builds for the entire stack. Bridging the gap between high-performance UI rendering and scalable cloud architectures.</strong>
 </p>
 
 <p align="center">
@@ -13,14 +13,14 @@
 
 ---
 
-### ⚡ Frontend Mastery meets Cloud Architecture
+### ⚡ Frontend Core, End-to-End Execution
 
-I am a Full-Stack Architect who combines deep frontend expertise (rendering performance, core web vitals, dynamic canvas engines) with professional cloud architecting credentials as an **AWS Certified Solutions Architect**. I build highly responsive, accessible web interfaces powered by robust, secure, and cost-efficient cloud infrastructures.
+I am a **Senior Frontend Engineer** who doesn't stop at the browser. While my core strength is designing high-performance, pixel-perfect, and accessible user interfaces, I bring the T-shaped expertise of an **AWS Certified Solutions Architect** to design the serverless backends, API layers, and CI/CD pipelines needed to deliver complete web products.
 
-* 🎨 **Pixel-Perfect & High-Performance:** Crafting dynamic UX/UI in React/Next.js with clean state management, fluid micro-interactions, and optimized Lighthouse scores.
-* ☁️ **AWS Certified Cloud Design:** Architecting secure, serverless, and highly available systems using AWS (Lambda, API Gateway, S3, CloudFront, DynamoDB, Bedrock, VPC, IAM).
-* 🏗️ **Scale & Monorepos:** Decoupling frontends via Micro Frontends (MFE), managing large codebases in Nx/Turborepo monorepos, and establishing quality-gated pipelines.
-* 🤖 **AI & Agentic Workflows:** Engineering AI integrations, Retrieval-Augmented Generation (RAG) backend structures, and local LLM usage monitoring tools.
+* 🎨 **Advanced Frontend Engineering:** Deep expertise in React (18/19), Next.js, Micro Frontends (MFE), state machines, and dynamic canvas visualization.
+* ☁️ **Full-Stack AWS Architecture:** Designing secure, serverless backend integrations (Lambda, API Gateway, DynamoDB, Bedrock, VPC, CloudFront) to support frontend scale.
+* 🏗️ **Monorepos & Delivery:** Orchestrating complex codebases with Nx/Turborepo, enforcing clean shared library boundaries, and setting up automated Playwright/Cypress testing.
+* 🤖 **AI & Productivity Tooling:** Creating custom CLI developer tools and prompt configurations to automate workflows and optimize LLM costs.
 
 ---
 
