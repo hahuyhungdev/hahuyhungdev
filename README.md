@@ -103,15 +103,6 @@ Here are a few select projects showcasing advanced UI states, interactive animat
 
 ---
 
-### 📊 GitHub Activity & Metrics
-
-<p align="center">
-  <img src="github_metrics_01.svg" alt="GitHub Metrics 1" width="49%" />
-  <img src="github_metrics_02.svg" alt="GitHub Metrics 2" width="49%" />
-</p>
-
----
-
 ### 📫 Let's Connect & Collaborate!
 
 * 📍 Ho Chi Minh City, Vietnam 🇻🇳
