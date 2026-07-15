@@ -1,10 +1,11 @@
-# 🌟 Ha Huy Hung | Senior Frontend Architect & UI/UX Engineer 👋
+# 🌟 Ha Huy Hung | Full-Stack Architect & AWS Certified Solutions Architect 👋
 
 <p align="center">
-  <strong>Bridging the Gap Between Design and Engineering. Crafting High-Performance, Human-Centric, and Pixel-Perfect Web Experiences.</strong>
+  <strong>Bridging the Gap Between High-Performance Frontend Rendering and Scalable Cloud Architectures.</strong>
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/AWS-Certified_Solutions_Architect-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Certified Solutions Architect" />
   <a href="https://github.com/hahuyhungdev"><img src="https://img.shields.io/github/followers/hahuyhungdev?style=flat-square&logo=github&label=Followers&color=2ecc71" alt="Followers"></a>
   <a href="https://github.com/hahuyhungdev"><img src="https://img.shields.io/github/stars/hahuyhungdev?style=flat-square&logo=github&label=Stars&color=f1c40f" alt="Stars"></a>
   <a href="mailto:hahuyhungdev@gmail.com"><img src="https://img.shields.io/badge/Email-hahuyhungdev%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email"></a>
@@ -12,14 +13,14 @@
 
 ---
 
-### 🎨 My Frontend & UI/UX Philosophy
+### ⚡ Frontend Mastery meets Cloud Architecture
 
-I believe that exceptional frontend engineering is where technical excellence meets artistic design. I specialize in building user interfaces that are not just beautiful and accessible, but also blazing fast and structurally sound. 
+I am a Full-Stack Architect who combines deep frontend expertise (rendering performance, core web vitals, dynamic canvas engines) with professional cloud architecting credentials as an **AWS Certified Solutions Architect**. I build highly responsive, accessible web interfaces powered by robust, secure, and cost-efficient cloud infrastructures.
 
-* ⚡ **Performance-First:** Obsessed with Core Web Vitals, code-splitting, lazy-loading, and maintaining 100-score Lighthouse reports.
-* 👁️ **Pixel-Perfect UI/UX:** Translating complex Figma designs into responsive layouts with fluid micro-interactions, robust transitions, and screen-reader accessibility (WCAG).
-* 🏗️ **Scale & Architecture:** Designing frontend platforms using Micro Frontends (MFE), Nx/Turborepo monorepos, and modular React state frameworks.
-* ☁️ **Fullstack & AWS Connected:** Extending high-fidelity frontends with serverless AWS endpoints (Lambda, API Gateway, DynamoDB, S3) to build cohesive, end-to-end products.
+* 🎨 **Pixel-Perfect & High-Performance:** Crafting dynamic UX/UI in React/Next.js with clean state management, fluid micro-interactions, and optimized Lighthouse scores.
+* ☁️ **AWS Certified Cloud Design:** Architecting secure, serverless, and highly available systems using AWS (Lambda, API Gateway, S3, CloudFront, DynamoDB, Bedrock, VPC, IAM).
+* 🏗️ **Scale & Monorepos:** Decoupling frontends via Micro Frontends (MFE), managing large codebases in Nx/Turborepo monorepos, and establishing quality-gated pipelines.
+* 🤖 **AI & Agentic Workflows:** Engineering AI integrations, Retrieval-Augmented Generation (RAG) backend structures, and local LLM usage monitoring tools.
 
 ---
 
@@ -47,12 +48,22 @@ I believe that exceptional frontend engineering is where technical excellence me
     </td>
   </tr>
   <tr>
-    <td><strong>State & Architecture</strong></td>
+    <td><strong>Cloud & Backend</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
-      <img src="https://img.shields.io/badge/Zustand-444444?style=flat-square" alt="Zustand" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.dot.js&logoColor=white" alt="Node" />
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="Nest" />
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" />
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Architecture & DevOps</strong></td>
+    <td>
       <img src="https://img.shields.io/badge/Nx_Monorepos-143055?style=flat-square&logo=nx&logoColor=white" alt="Nx" />
       <img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white" alt="Turborepo" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
     </td>
   </tr>
   <tr>
@@ -63,42 +74,36 @@ I believe that exceptional frontend engineering is where technical excellence me
       <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest" />
     </td>
   </tr>
-  <tr>
-    <td><strong>Fullstack & Cloud</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
-      <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.dot.js&logoColor=white" alt="Node" />
-      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="Nest" />
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" />
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-    </td>
-  </tr>
 </table>
 
 ---
 
-### 📂 Featured Frontend & Interactive Projects
+### 📂 Featured Full-Stack & Cloud Architecture Projects
 
-Here are a few select projects showcasing advanced UI states, interactive animations, and optimized frontend patterns:
+Here are a few select projects showcasing advanced UI states, interactive animations, and serverless cloud architectures:
+
+#### 🤖 [aws-bedrock-agentic-rag](https://github.com/hahuyhungdev/aws-bedrock-agentic-rag)
+* **What it is:** A cloud-native Agentic Retrieval-Augmented Generation (RAG) setup utilizing generative AI.
+* **Cloud Architecture:** Leverages AWS Bedrock model endpoints, serverless AWS Lambda microservices, secure IAM policy layers, and vectorized search integration for responsive context retrievability.
+* *Stack: AWS Bedrock, AWS Lambda, Vector Databases, Python, Node.js*
 
 #### 📖 [Web Interactive DSA Handbook](https://github.com/hahuyhungdev/web-interactive-dsa-handbook)
-* **What it is:** A comprehensive visual and interactive platform designed to teach Data Structures & Algorithms.
-* **Frontend Excellence:** Dynamic Canvas render loop, custom state management to handle frame animation controls, interactive drag-and-drop node graph interfaces, and fluid CSS-based transition layers.
-* *Stack: React, TypeScript, HTML5 Canvas, Tailwind CSS*
+* **What it is:** An interactive visual guide to learning Data Structures & Algorithms.
+* **Frontend Excellence:** High-performance HTML5 Canvas render loop, custom state engine handling step animations, and interactive nodes with drag-and-drop support.
+* *Stack: React, TypeScript, Canvas, Tailwind CSS*
 
 #### 🔌 [Keyboard-first Chrome Extensions](https://github.com/hahuyhungdev/browser-extensions)
-* **What it is:** Navigation extensions maximizing user productivity through zero-latency, keyboard-driven controls.
-* **Frontend Excellence:** Custom keybinding registry, instant focus states, lightweight layout, and accessibility-first configuration panels.
-* *Stack: Vanilla JS, Web Extensions API, Vite, CSS Grid*
+* **What it is:** Custom Chrome extensions built for keyboard-centric web navigation.
+* **Frontend Excellence:** Event-listener architecture optimized for minimal latency, interactive option menus, and accessibility settings.
+* *Stack: Javascript, Web Extensions API, Vite, CSS Grid*
 
 #### 🏗️ [Nx Monorepo Workspace](https://github.com/hahuyhungdev/nx-monorepo-workspace)
-* **What it is:** An enterprise-ready frontend boilerplate demonstrating advanced monorepo standards.
-* **Frontend Excellence:** Setup for Micro-Frontends (MFE), zero-config shared design systems, optimized lazy-loading routes, and shared Zustand state slices.
-* *Stack: Nx, React, TypeScript, Webpack Module Federation*
+* **What it is:** An enterprise-ready monorepo workspace for scaling front-end and full-stack codebases.
+* **Frontend Excellence:** Configuration for module federation (Micro-Frontends), reusable UI design systems, and cross-application state sharing.
+* *Stack: Nx, React, TypeScript, Webpack*
 
 #### 📊 [AI Usage Tracker](https://github.com/hahuyhungdev/ai-usage-tracker)
-* **What it is:** A local CLI tool designed to track AI workspace consumption metrics.
-* **Backend Integration:** Rich command line UI displaying real-time token counts, prompts, and budget analysis.
+* **What it is:** A local CLI tool designed to track, budget, and report AI assistant (e.g. Claude, Cursor) API consumption.
 * *Stack: Node.js, CLI, SQLite*
 
 ---
