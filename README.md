@@ -1,4 +1,4 @@
-# 🌟 Ha Huy Hung | Senior Frontend Engineer & Fullstack Engineer 👋
+# 🌟 Ha Huy Hung |  Frontend Engineer & Fullstack Engineer 👋
 
 <p align="center">
   <strong>React Performance Specialist | AWS Certified Solutions Architect</strong>
